@@ -9,7 +9,7 @@ public class LoginAction extends ActionSupport {
     public String execute() {
  
         if (this.username.equals("admin")
-                && this.password.equals("admin123")) {
+                && this.password.equals("admin1234")) {
             return "success";
         } else {
             addActionError(getText("error.login"));
