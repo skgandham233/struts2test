@@ -2,13 +2,8 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>Struts2XMLHelloWorld</groupId>
-<<<<<<< HEAD
     <artifactId>struts3-test</artifactId>
     <version>1.0</version>
-=======
-    <artifactId>struts2-test</artifactId>
-    <version>2.1</version>
->>>>>>> af67b198b26f8914f2485584e3647cab72d2de85
     <packaging>war</packaging>
  
     <dependencies>
