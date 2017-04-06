@@ -11,7 +11,7 @@
 <s:form action="login.action" method="post">
     <s:textfield name="username" key="label.username" size="20" />
     <s:password name="password" key="label.password" size="20" />
-    <s:submit value="Add New" method="execute" align="center" />
+    <s:submit value="SUBMIT" method="execute" align="center" />
 </s:form>
 </body>
 </html>
